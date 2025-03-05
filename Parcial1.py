@@ -60,6 +60,7 @@ def crearGrafico():
         ])
     return app
 
+#Para capturar los datos y subirlos a Mongo quitar el comentario de obtenerDatos()
 #obtenerDatos()
 app = crearGrafico()
 
